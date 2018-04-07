@@ -1,0 +1,13 @@
+<resources>
+    <string name="Sign_In">Sign In</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="my_app">My Application</string>
+    <string name="uname">Username</string>
+    <string name="google">Google Sign In</string>
+    <string name="fp">Forgot Password ?</string>
+    <string name="pwd">Password</string>
+    <string name="underline1"><u>Need Help?</u></string>
+    <string name="fn">Full Name</string>
+    <string name="ca">Create Account</string>
+    <string name="title_activity_main5">Main5Activity</string>
+</resources>
